@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ankita-shirodkar from Goa, India 🏖️
 - 👀 I am interested in technical writing and am currently in the process of exploring the same
 - 🌱 I am presently working as part of a Cloud Operations team (Azure IaaS)
-- ⚡ I love to cook, paint, read, write, listen to music and watch movies 😄
+- ⚡ I love to cook, paint, read, write, listen to music, and watch movies 😄
 - 👩 Pronouns: She/Her/Hers
 
 ## Connect with me
