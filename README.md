@@ -8,10 +8,10 @@
 
 ## Connect with me
 
+- [LinkedIn](https://www.linkedin.com/in/ankita-shirodkar-480b52169)
 - [Twitter](https://twitter.com/mediocreankita)
 - [YouTube](https://www.youtube.com/c/AnkitasKitchenGoa/videos)
 - [WordPress](https://ankitaskitchen.food.blog/)
-- [LinkedIn](https://www.linkedin.com/in/ankita-shirodkar-480b52169)
 
 <!---
 ankita-shirodkar/ankita-shirodkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
