@@ -1,8 +1,9 @@
 # Hi there, I am Ankita Shirodkar 👋
 
-- 👋 Hi, I’m @ankita-shirodkar from Goa, India 
-- 👀 I’m interested in technical writing
-- 🌱 I’m currently working with Microsoft Azure - more specifically, IaaS
+- 👋 Hi, I’m @ankita-shirodkar from Goa, India 🏖️
+- 👀 I’m interested in technical writing and in the process of exploring the same
+- 🌱 I am currently working as part of a Cloud Operations team (Azure IaaS)
+- ⚡ I love to cook, paint, read, listen to music, and watch movies
 - 👩 Pronouns: She/Her/Hers
 
 ## Connect with me
