@@ -1,16 +1,15 @@
 # Hi there, I am Ankita Shirodkar 👋
 
 - 👋 Hi, I’m @ankita-shirodkar from Goa, India 🏖️
-- 👀 I am interested in technical writing and am currently in the process of exploring the same
-- 🌱 I am presently working as part of a Cloud Operations team (Azure IaaS)
-- ⚡ I love to cook, paint, read, write, listen to music, and watch movies 😄
+- 👀 I am interested in technical writing and would love to explore this domain!
+- 🌱 I presently work in project coordination and management, and have prior experience as an Azure Cloud Engineer
+- ⚡ I like to cook, paint, read, write, listen to music, and watch movies. Alright! That was a lot to list, haha! 😄
 - 👩 Pronouns: She/Her/Hers
 
 ## Connect with me
 
 <!---
 - [LinkedIn](https://www.linkedin.com/in/ankita-shirodkar-480b52169)
-- [Twitter](https://twitter.com/mediocreankita)
 - [YouTube](https://www.youtube.com/c/AnkitasKitchenGoa/videos)
 - [WordPress](https://ankitaskitchen.food.blog/)
 --->
